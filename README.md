@@ -31,7 +31,7 @@ Welcome to my Github Profile! <br>
 <p align="center">
   <a href="https://github.com/amangupt01">
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amangupt01&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amangupt01&count_private=true&hide=html,css,Makefile,Jupyter%20Notebook&layout=compact&langs_count=10&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amangupt01&count_private=true&hide=html,css&layout=compact&langs_count=10&theme=algolia"/>
   </a>
 </p>
 
